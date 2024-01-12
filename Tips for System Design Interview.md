@@ -28,5 +28,6 @@ This video provides five do's and don'ts for system design interviews, including
 - ✅ Keeping the system design simple and avoiding excessive focus on specific components allows for a broader perspective and potential reuse of components across the system.
 - ✅ Making points without justifications can weaken the validity of your choices. Providing clear reasoning and explanations for design decisions demonstrates thoughtful consideration.
 - ✅ Staying updated on current technologies and off-the-shelf solutions can showcase knowledge and efficiency in system design, potentially saving time and effort in implementation.
+-------------------------------
 
 # Be confident, and good luck for your interview 😄.
